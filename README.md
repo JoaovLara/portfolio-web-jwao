@@ -18,9 +18,9 @@ Este portfólio foi projetado com responsividade em mente. Ele se adapta a difer
 
 Você pode entrar em contato comigo por meio das seguintes redes sociais:
 
-- **GitHub**: [Meu Perfil no GitHub](https://github.com/JoaovLara)
-- **Instagram**: [Meu Perfil no Instagram](https://www.instagram.com/jwao_arte/)
-- **LinkedIn**: [Meu Perfil no LinkedIn](https://www.linkedin.com/in/joaovlara/)
+- **GitHub**: [JoaovLara](https://github.com/JoaovLara)
+- **Instagram**: [@jwao_arte](https://www.instagram.com/jwao_arte/)
+- **LinkedIn**: [João Lara](https://www.linkedin.com/in/joaovlara/)
 - **E-mail**: [joaovdelara@gmail](mailto:joaovdelara@gmail.com)
 
 ## Agradeço por Visitar
